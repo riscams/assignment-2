@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "book1",
+    "author": "author1",
+    "page": 100
+  },
+  {
+    "id": 2,
+    "title": "book2",
+    "author": "author2",
+    "page": 200
+  },
+  {
+    "id": 3,
+    "title": "book3",
+    "author": "author3",
+    "page": 300
+  },
+  {
+    "id": 4,
+    "title": "book4",
+    "author": "author4",
+    "page": 400
+  },
+  {
+    "title": "ICA",
+    "author": "ICA",
+    "page": 123,
+    "id": 5
+  }
+]
